@@ -1,0 +1,5 @@
+# ninja log v5
+0	1656	1662555513461977374	CMakeFiles/graph_impl.dir/main.cpp.o	16cc92d3a96ffde0
+1658	1804	1662555513614162180	graph_impl	8f7e4def9ed44d96
+2	1418	1662555675053201200	CMakeFiles/graph_impl.dir/main.cpp.o	16cc92d3a96ffde0
+1418	1537	1662555675181200281	graph_impl	8f7e4def9ed44d96

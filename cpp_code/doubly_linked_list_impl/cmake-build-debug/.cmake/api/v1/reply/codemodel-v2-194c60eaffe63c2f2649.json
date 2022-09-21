@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "doubly_linked_list_impl",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "doubly_linked_list_impl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doubly_linked_list_impl-Debug-a3c0f81e604e9f5936d8.json",
+					"name" : "doubly_linked_list_impl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/raunaksingh/Documents/ds_algo_stuff/ztm_course/cpp_code/doubly_linked_list_impl/cmake-build-debug",
+		"source" : "/Users/raunaksingh/Documents/ds_algo_stuff/ztm_course/cpp_code/doubly_linked_list_impl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

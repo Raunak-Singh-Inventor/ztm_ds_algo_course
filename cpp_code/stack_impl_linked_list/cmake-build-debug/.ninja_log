@@ -1,0 +1,21 @@
+# ninja log v5
+0	1522	1661027294925946689	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1525	1655	1661027295063798414	stack_impl_linked_list	810b081485df4c56
+4	1397	1661027336646803737	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1397	1539	1661027336796585303	stack_impl_linked_list	810b081485df4c56
+3	1015	1661027371383624427	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1015	1118	1661027371490375314	stack_impl_linked_list	810b081485df4c56
+7	1165	1661027476993302670	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1165	1261	1661027477093310133	stack_impl_linked_list	810b081485df4c56
+3	906	1661027499421062488	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+906	1014	1661027499536156974	stack_impl_linked_list	810b081485df4c56
+5	1261	1661027666246362338	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1261	1381	1661027666370534189	stack_impl_linked_list	810b081485df4c56
+3	1139	1661027814241646162	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+1140	1261	1661027814369412169	stack_impl_linked_list	810b081485df4c56
+2	2554	1661097273583954753	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+2554	2695	1661097273734291237	stack_impl_linked_list	810b081485df4c56
+23	2191	1661097462461757185	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+2191	2272	1661097462545149346	stack_impl_linked_list	810b081485df4c56
+4	4784	1661097497522638115	CMakeFiles/stack_impl_linked_list.dir/main.cpp.o	f93d449f19505c86
+4784	4947	1661097497693180670	stack_impl_linked_list	810b081485df4c56

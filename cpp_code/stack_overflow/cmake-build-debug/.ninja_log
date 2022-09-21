@@ -1,0 +1,13 @@
+# ninja log v5
+1	1425	6843520610741453	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+1434	1924	6843520615611396	stack_overflow.exe	8cd4162a4a8b488
+10	904	6843522043629206	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+906	1110	6843522045632118	stack_overflow.exe	8cd4162a4a8b488
+9	1568	6843522553757737	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+1570	1882	6843522556877227	stack_overflow.exe	8cd4162a4a8b488
+10	878	6844351801794720	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+880	1125	6844351804195221	stack_overflow.exe	8cd4162a4a8b488
+7	930	6844352021986943	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+933	1130	6844352023916903	stack_overflow.exe	8cd4162a4a8b488
+10	728	6844352097163077	CMakeFiles/stack_overflow.dir/main.cpp.obj	fe774e5ebaf60a71
+729	940	6844352099223037	stack_overflow.exe	8cd4162a4a8b488
